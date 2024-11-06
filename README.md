@@ -1,6 +1,6 @@
 # Used Cars
 
-This project analyzes a dataset of car listings to predict whether a vehicle is in hazardous condition based on various features. The dataset contains over 426880 records. The project involves data preprocessing, exploratory data analysis (EDA), and model building using machine learning to predict a specified target variable.
+This project analyzes a dataset of car listings to predict whether a vehicle is in hazardous condition based on various features. The dataset contains over 426,000 records. The project involves data preprocessing, exploratory data analysis (EDA), and model building using machine learning to predict a specified target variable.
 
 ## Overview
 
