@@ -1,6 +1,6 @@
-# Predicting Hazardous NEOs (Nearest Earth Objects)
+# Used Cars
 
-This project analyzes a dataset of car listings to predict whether a vehicle is in hazardous condition based on various features. The dataset contains over 426,000 records. The project involves data preprocessing, exploratory data analysis (EDA), and model building using machine learning to predict a specified target variable.
+This project analyzes a dataset of car listings to predict whether a vehicle is in hazardous condition based on various features. The dataset contains over 426880 records. The project involves data preprocessing, exploratory data analysis (EDA), and model building using machine learning to predict a specified target variable.
 
 ## Overview
 
@@ -92,11 +92,5 @@ Install these with:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
-
----
-
-## 🏁 Conclusion
-
-This project provides a framework for predicting hazardous conditions based on vehicle listings. Initial models show promise, though future work could involve handling class imbalance more effectively to improve predictions for the hazardous class.
 
 ---
